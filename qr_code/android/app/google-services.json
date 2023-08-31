@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "55587153966",
+    "firebase_url": "https://shofar-6cd1c-default-rtdb.firebaseio.com",
+    "project_id": "shofar-6cd1c",
+    "storage_bucket": "shofar-6cd1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55587153966:android:42776d5b32c19044b317bf",
+        "android_client_info": {
+          "package_name": "com.example.qr_code"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55587153966-8lvcpi6bj4nir0cbnpdeebvevqen84tf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdflt2Z8yj14DjixxI8n08Lw5l-zVSxdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55587153966-8lvcpi6bj4nir0cbnpdeebvevqen84tf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

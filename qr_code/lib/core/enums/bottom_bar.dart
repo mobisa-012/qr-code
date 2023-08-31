@@ -1,0 +1,3 @@
+enum BottomBarItem {
+  home, account
+}
